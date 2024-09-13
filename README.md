@@ -79,3 +79,7 @@ class-variance-authority
 ```sh
 pnpm i class-variance-authority
 ```
+
+```sh
+pnpm i tailwind-merge
+```
